@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+header{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.letras{
+    color: white;
+}
+.letrasn{
+    color: black;
+}
+
+.letras:hover{
+    color: beige;
+}
+.letras:focus{
+    color: beige;
+}
+.letras:checked{
+    color: beige;
+}
